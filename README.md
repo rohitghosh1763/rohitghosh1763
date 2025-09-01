@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hey there! I'm Rohit Ghosh 🚀<br><br>💻 Web Developer | 🎯 Intern at National Informatics Center (NIC)<br>📌 Passionate about building scalable web apps, AI, and automation<br>📸 Love coding & photography—capturing moments both in code & in life
+👋 Hey there! I'm Rohit Ghosh 🚀<br><br>💻 Web Developer | 🎯 Software Developer @Littleboxindia<br>📌 Passionate about building scalable web apps, AI, and automation<br>📸 Love coding & photography—capturing moments both in code & in life
 
 
 ## 🌐 Socials:
